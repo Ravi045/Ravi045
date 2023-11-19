@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ravi Chaurasiya (@Ravi045) I have more than two years experience in UI developer.
+- 👋 Hi, I’m Ravi Chaurasiya (@Ravi045) I have more than four years experience in UI developer and Frontend Developer.
 - 👀 I’m interested in making new designs and learning new tricks.
 - 🌱 I’m currently learning React, Javascript Angular etc.
 - 💞️ I’m looking to collaborate on ...
